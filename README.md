@@ -24,48 +24,19 @@ Working with OpenCTI, MISP, YETI, Recorded Future, AlienVault OTX, Pulsedive, an
 
 Publishing blue-team labs, detection work, and investigation reports
 
-Skills
+## Skills
 
-Skill
-
-Associated Project
-
-SIEM Implementation, Alert Triage, and Log Analysis
-
-<a href="https://github.com/YOUR-GITHUB-USERNAME/soc-home-lab">SOC Home Lab</a>
-
-Microsoft Sentinel Analytics and Security Automation
-
-<a href="https://github.com/YOUR-GITHUB-USERNAME/microsoft-sentinel-labs">Microsoft Sentinel Blue Team Labs</a>
-
-Endpoint Monitoring with Sysmon and Wazuh
-
-<a href="https://github.com/YOUR-GITHUB-USERNAME/soc-home-lab">SOC Home Lab</a>
-
-Network Traffic Monitoring and Attack Detection
-
-<a href="https://github.com/YOUR-GITHUB-USERNAME/network-traffic-analysis">Wireshark and Suricata Labs</a>
-
-Threat Actor Profiling and MITRE ATT&CK Mapping
-
-<a href="https://github.com/YOUR-GITHUB-USERNAME/shinyhunters-threat-intelligence">ShinyHunters Threat Intelligence Project</a>
-
-Threat Intelligence Platform Deployment and Integration
-
-<a href="https://github.com/YOUR-GITHUB-USERNAME/threat-intelligence-lab">OpenCTI and XTM One Lab</a>
-
-Ransomware Detection with Machine Learning
-
-<a href="https://github.com/YOUR-GITHUB-USERNAME/ransomware-detection">MSc Ransomware Detection Project</a>
-
-Vulnerability Assessment and Penetration Testing
-
-<a href="https://github.com/YOUR-GITHUB-USERNAME/vapt-lab">VAPT Lab</a>
-
-Incident Investigation and Documentation
-
-<a href="https://github.com/YOUR-GITHUB-USERNAME/mydfir-soc-portfolio">MYDFIR Forge SOC Portfolio</a>
-
+| Skill | Associated Project |
+|---|---|
+| SIEM Implementation and Log Analysis | [SOC Home Lab](https://github.com/YOUR-GITHUB-USERNAME/soc-home-lab) |
+| Microsoft Sentinel Alert Investigation | [Microsoft Sentinel Labs](https://github.com/YOUR-GITHUB-USERNAME/microsoft-sentinel-labs) |
+| Network Traffic Monitoring and Attack Detection | [Wireshark and Suricata Lab](https://github.com/YOUR-GITHUB-USERNAME/network-traffic-analysis) |
+| Endpoint Monitoring with Wazuh and Sysmon | [SOC Home Lab](https://github.com/YOUR-GITHUB-USERNAME/soc-home-lab) |
+| Threat Actor Profiling and MITRE ATT&CK Mapping | [ShinyHunters Threat Intelligence Project](https://github.com/YOUR-GITHUB-USERNAME/shinyhunters-threat-intelligence) |
+| Threat Intelligence Platform Deployment | [OpenCTI and XTM One Lab](https://github.com/YOUR-GITHUB-USERNAME/threat-intelligence-lab) |
+| Ransomware Detection with Machine Learning | [MSc Ransomware Detection Project](https://github.com/YOUR-GITHUB-USERNAME/ransomware-detection) |
+| Vulnerability Assessment and Penetration Testing | [VAPT Lab](https://github.com/YOUR-GITHUB-USERNAME/vapt-lab) |
+| Incident Investigation and Documentation | [MYDFIR SOC Portfolio](https://github.com/YOUR-GITHUB-USERNAME/mydfir-soc-portfolio) |
 Tools
 
 SIEM and Security OperationsTools
