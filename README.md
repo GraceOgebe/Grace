@@ -30,43 +30,45 @@ Skill
 
 Associated Project
 
-SIEM monitoring, alert triage, and log analysis
+SIEM Implementation, Alert Triage, and Log Analysis
 
-SOC Home Lab
+<a href="https://github.com/YOUR-GITHUB-USERNAME/soc-home-lab">SOC Home Lab</a>
 
-Microsoft Sentinel analytics and automation
+Microsoft Sentinel Analytics and Security Automation
 
-Microsoft Sentinel Blue Team Labs
+<a href="https://github.com/YOUR-GITHUB-USERNAME/microsoft-sentinel-labs">Microsoft Sentinel Blue Team Labs</a>
 
-Endpoint monitoring with Sysmon and Wazuh
+Endpoint Monitoring with Sysmon and Wazuh
 
-SOC Home Lab
+<a href="https://github.com/YOUR-GITHUB-USERNAME/soc-home-lab">SOC Home Lab</a>
 
-Network traffic and packet analysis
+Network Traffic Monitoring and Attack Detection
 
-Wireshark and Suricata Labs
+<a href="https://github.com/YOUR-GITHUB-USERNAME/network-traffic-analysis">Wireshark and Suricata Labs</a>
 
-Threat actor profiling and ATT&CK mapping
+Threat Actor Profiling and MITRE ATT&CK Mapping
 
-ShinyHunters Threat Intelligence Project
+<a href="https://github.com/YOUR-GITHUB-USERNAME/shinyhunters-threat-intelligence">ShinyHunters Threat Intelligence Project</a>
 
-Threat intelligence platform deployment
+Threat Intelligence Platform Deployment and Integration
 
-OpenCTI and XTM One Lab
+<a href="https://github.com/YOUR-GITHUB-USERNAME/threat-intelligence-lab">OpenCTI and XTM One Lab</a>
 
-Ransomware detection with machine learning
+Ransomware Detection with Machine Learning
 
-MSc Ransomware Detection Project
+<a href="https://github.com/YOUR-GITHUB-USERNAME/ransomware-detection">MSc Ransomware Detection Project</a>
 
-Vulnerability assessment and penetration testing
+Vulnerability Assessment and Penetration Testing
 
-VAPT Lab
+<a href="https://github.com/YOUR-GITHUB-USERNAME/vapt-lab">VAPT Lab</a>
 
-Incident investigation and documentation
+Incident Investigation and Documentation
 
-MYDFIR Forge SOC Portfolio
+<a href="https://github.com/YOUR-GITHUB-USERNAME/mydfir-soc-portfolio">MYDFIR Forge SOC Portfolio</a>
 
 Tools
+
+SIEM and Security OperationsTools
 
 SIEM and Security Operations
 
