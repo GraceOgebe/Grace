@@ -88,15 +88,14 @@ Publishing blue-team labs, detection work, and investigation reports
 
 # Projects
 
-- ShinyHunters Threat Intelligence Profile and Operations Handbook
-
-- MYDFIR Forge SOC Analyst Portfolio
-
+- ShinyHunters Threat Intelligence Profile and Operations Handbook (Coming Soon)
+- Email Investigations
 - Microsoft Sentinel Blue Team and SOAR Labs
+- Splunk, Wazuh, and Sysmon SOC Home Labs
+- Cyber Threat Intelligence Labs
+- Azure Cloud Security Projects
+- FortisAid Governance, Risk Management, and Compliance Projects
 
-- Splunk, Wazuh, and Sysmon SOC Home Lab
-
-- OpenCTI and XTM One Threat Intelligence Lab
 
 
 
