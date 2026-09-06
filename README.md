@@ -34,7 +34,7 @@ Publishing blue-team labs, detection work, and investigation reports
 | Endpoint Monitoring with Wazuh and Sysmon | [SOC Home Lab](https://github.com/YOUR-GITHUB-USERNAME/soc-home-lab) |
 | Threat Actor Profiling and MITRE ATT&CK Mapping | [ShinyHunters Threat Intelligence Project](https://github.com/YOUR-GITHUB-USERNAME/shinyhunters-threat-intelligence) |
 | Threat Intelligence Platform Deployment | [OpenCTI and XTM One Lab](https://github.com/YOUR-GITHUB-USERNAME/threat-intelligence-lab) |
-| Incident Investigation and Documentation | [MYDFIR SOC Portfolio](https://github.com/YOUR-GITHUB-USERNAME/mydfir-soc-portfolio) |
+| Email Investigation and Documentation | [Email Investigation](https://github.com/GraceOgebe/Email-Investigation) |
 
 
 ## Tools
