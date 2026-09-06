@@ -28,7 +28,7 @@ Publishing blue-team labs, detection work, and investigation reports
 
 | Skill | Associated Project |
 |---|---|
-| SIEM Implementation and Log Analysis | [SOC Home Lab](https://github.com/YOUR-GITHUB-USERNAME/soc-home-lab) |
+| Cloud Security | [Cloud Security Projects](https://github.com/GraceOgebe/Cloud-Security/tree/main) |
 | Microsoft Sentinel Alert Investigation | [Microsoft Sentinel Labs](https://github.com/YOUR-GITHUB-USERNAME/microsoft-sentinel-labs) |
 | Network Traffic Monitoring and Attack Detection | [Wireshark and Suricata Lab](https://github.com/YOUR-GITHUB-USERNAME/network-traffic-analysis) |
 | Endpoint Monitoring with Wazuh and Sysmon | [SOC Home Lab](https://github.com/YOUR-GITHUB-USERNAME/soc-home-lab) |
