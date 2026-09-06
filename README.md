@@ -30,7 +30,7 @@ Publishing blue-team labs, detection work, and investigation reports
 |---|---|
 | Cloud Security | [Cloud Security Projects](https://github.com/GraceOgebe/Cloud-Security/tree/main) |
 | Microsoft Sentinel Alert Investigation | [Microsoft Sentinel Labs](https://github.com/YOUR-GITHUB-USERNAME/microsoft-sentinel-labs) |
-| Network Traffic Monitoring and Attack Detection | [Wireshark and Suricata Lab](https://github.com/YOUR-GITHUB-USERNAME/network-traffic-analysis) |
+| Governance, Risk management, and Compliance| [GRC Projects](https://github.com/GraceOgebe/Governance-Risk-management-and-Compliance) |
 | Endpoint Monitoring with Wazuh and Sysmon | [SOC Home Lab](https://github.com/YOUR-GITHUB-USERNAME/soc-home-lab) |
 | Threat Actor Profiling and MITRE ATT&CK Mapping | [ShinyHunters Threat Intelligence Project](https://github.com/YOUR-GITHUB-USERNAME/shinyhunters-threat-intelligence) |
 | Cyber Threat Intelligence | [Cyber Threat Intelligence Projects](https://github.com/GraceOgebe/Cyber-Threat-Intelligence/tree/main) |
