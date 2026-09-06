@@ -33,7 +33,7 @@ Publishing blue-team labs, detection work, and investigation reports
 | Network Traffic Monitoring and Attack Detection | [Wireshark and Suricata Lab](https://github.com/YOUR-GITHUB-USERNAME/network-traffic-analysis) |
 | Endpoint Monitoring with Wazuh and Sysmon | [SOC Home Lab](https://github.com/YOUR-GITHUB-USERNAME/soc-home-lab) |
 | Threat Actor Profiling and MITRE ATT&CK Mapping | [ShinyHunters Threat Intelligence Project](https://github.com/YOUR-GITHUB-USERNAME/shinyhunters-threat-intelligence) |
-| Threat Intelligence Platform Deployment | [OpenCTI and XTM One Lab](https://github.com/YOUR-GITHUB-USERNAME/threat-intelligence-lab) |
+| Cyber Threat Intelligence | [Cyber Threat Intelligence Projects](https://github.com/GraceOgebe/Cyber-Threat-Intelligence/tree/main) |
 | Email Investigation and Documentation | [Email Investigation](https://github.com/GraceOgebe/Email-Investigation) |
 
 
